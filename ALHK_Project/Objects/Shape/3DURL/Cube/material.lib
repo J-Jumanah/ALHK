@@ -1,0 +1,12 @@
+# Aspose.3D Wavefront OBJ Exporter
+# Copyright 2004-2022 Aspose Pty Ltd.
+# File created: 04/26/2022 17:15:07
+
+newmtl Radar
+	Ka 0.2 0.2 0.2
+	Kd 0.7518950700759888 0.05818717926740646 0.03561437129974365
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
